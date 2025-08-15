@@ -62,10 +62,3 @@ To understand the role of VPNs in protecting privacy and enabling secure communi
 - Does not protect from unsafe websites or malware.
 
 ---
-
-## 📷 Screenshot
-> *(Add your VPN connection screenshot here)*
-
----
-
-##
